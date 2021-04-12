@@ -1,0 +1,25 @@
+body{
+  background-image: url(https://cdn.shopify.com/s/files/1/0257/6718/2416/files/Party-Background-green-with-presents.jpg?v=1595051600);
+
+  font-family: sans-serif;
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+h1{text-align: center;
+   color: #475AFF;
+   font-size : 90px;
+   font-family: YELLOWTAIL;}
+
+H2{text-align: center;
+  color: BLUE;
+  font-family: monospace;
+  padding-top: 125px;}
+
+
+   #footer{text-align: center;
+          padding: 3% 0;}
+
+   .social{margin: 20px 10px;
+         color: #dc3545;}
